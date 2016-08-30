@@ -110,3 +110,5 @@
 108. Aplicativo de receitas para fritadeira a ar, acompanha e avisa tempo de cozimento e sugere receitas por ingredientes
 109. City hacks: aplicativo para compartilhar dicas sobre como usar sua cidade perto do local onde você está
 110. Meu primeiro game: repositório para orientar desenvolvedores que querem criar seu primeiro jogo  
+111. Site comparador de preços de fraldas (que mostra o preço por fralda e preço por pacote) na região
+112. App ou site Calculadora de Chá de Fraldas (quantas fraldas por convidado e tamanhos)
